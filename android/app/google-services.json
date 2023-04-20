@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "573738331491",
+    "project_id": "invoiceintern",
+    "storage_bucket": "invoiceintern.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573738331491:android:074b567614b0c8f27fb756",
+        "android_client_info": {
+          "package_name": "com.example.invoice_intern"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573738331491-r593no13q0ftj2lfju7v16rpdtkl11e0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEO4HHHTln4dnU5e8N6hT2K1VVUC-Fav4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573738331491-r593no13q0ftj2lfju7v16rpdtkl11e0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
